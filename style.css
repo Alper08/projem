@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki yazı boyutu */
+    background-color: #00a6ff; /* Web sayfasının arka plan rengi */
+    color: #333333; /* Metin rengi */
+}
+
+h1 {
+    color: #4caf50; /* Başlık rengi */
+    font-size: 33px; /* Başlık yazı tipi boyutu */
+    margin-left: 550px;
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+ul{
+  margin-left: -30px;
+
+
+}
+
+p{
+  font-size: 15px; /* yazı tipi boyutu */ 
+
+
+}
